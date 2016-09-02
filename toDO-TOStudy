@@ -6,4 +6,27 @@ lINK DE JS PLAYLIST JS
 process . ARGV [ ];
 
 
+typeof é para descubrir o tipo da variavel
+
+
+
+
+EXERCICIO
+
+
+no exemplo sum.js implementar as seguintes funcionalidades
+
+DAR uma mensagem de feedback para o usuario caso ele não inferme um numero valido
+SOMAR  um ou mais numeros 
+-----------
+
+PERIOD.JS
+
+--------
+conforme o horario informado pelo usuario dar o feedback se o periodo
+é matutino ,vespertino e noturno
+
+
+
+
 
